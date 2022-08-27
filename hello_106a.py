@@ -1,1 +1,1 @@
-print("hello 106A!")
+print("hello 106A")
